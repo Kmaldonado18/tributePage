@@ -1,3 +1,25 @@
 <style>
+head{
+    align-items:center;
+    justify-content:center;
+}
+body {
+    background: #999999;
+    font-size: 80%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+img {
+    width: 100%;
+    justify-content: center;
+}
+
+img div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 </style>
